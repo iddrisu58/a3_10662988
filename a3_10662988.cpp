@@ -16,7 +16,7 @@ int main()
     else if (score >= 80)
         cout << "grade B+" << endl;
 
-    else if (score >= 700)
+    else if (score >= 70)
         cout << "grade B" << endl;
 
     else if (score >= 60)
@@ -31,7 +31,7 @@ int main()
     else if (score >= 30)
         cout << "grade D" << endl;
 
-    else if (score >= 200)
+    else if (score >= 20)
         cout << "grade E" << endl;
 
     else
